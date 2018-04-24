@@ -46,7 +46,7 @@ import numpy
 import theano
 import theano.tensor as T
 
-from logistic_sgd import load_data
+from theano_mnist_logistic_sgd import load_data
 
 
 class LogisticRegression(object):

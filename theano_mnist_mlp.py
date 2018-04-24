@@ -34,7 +34,7 @@ import theano
 import theano.tensor as T
 
 
-from logistic_sgd import LogisticRegression, load_data
+from theano_mnist_logistic_sgd import LogisticRegression, load_data
 
 
 # start-snippet-1
